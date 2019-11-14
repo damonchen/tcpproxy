@@ -1,0 +1,4 @@
+github.com/google/tcpproxy v0.0.0-20180808230851-dfa16c61dad2 h1:AtvtonGEH/fZK0XPNNBdB6swgy7Iudfx88wzyIpwqJ8=
+github.com/google/tcpproxy v0.0.0-20180808230851-dfa16c61dad2/go.mod h1:DavVbd41y+b7ukKDmlnPR4nGYmkWXR6vHUkjQNiHPBs=
+github.com/voxelbrain/goptions v0.0.0-20180630082107-58cddc247ea2 h1:txplJASvd6b/hrE0s/Ixfpp2cuwH9IO9oZBAN9iYa4A=
+github.com/voxelbrain/goptions v0.0.0-20180630082107-58cddc247ea2/go.mod h1:DGCIhurYgnLz8J9ga1fMV/fbLDyUvTyrWXVWUIyJon4=
